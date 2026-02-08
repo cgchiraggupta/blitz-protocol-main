@@ -1,0 +1,10 @@
+# Env and secrets (never commit)
+.env
+.env.*
+!.env.example
+
+# IDE / local
+.agents/
+.claude/
+.DS_Store
+*.log
